@@ -1,4 +1,4 @@
-# Distributed File System on Cloud
+# Distributed File Management System on Cloud
 
 <p align="center">
   <img src="./Frontend/public/images/logo.png" alt="Project Logo" width="200"/>
